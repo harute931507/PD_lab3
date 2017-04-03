@@ -1,0 +1,11 @@
+Script started on 2017年04月04日 (週二) 05時28分29秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507
+Cloning into 'harute931507'...
+fatal: repository 'https://github.com/harute931507/' not found
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507/lab3.git
+Cloning into 'lab3'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年04月04日 (週二) 05時29分07秒
